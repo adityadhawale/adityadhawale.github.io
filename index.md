@@ -10,7 +10,7 @@ I am a Master of Science student at [The Robotics Institute](https://www.ri.cmu.
 I work with professor [Nathan Michael](https://nmichael.me/) at the [Resilient Intelligent Systems Lab (RISLab)](https://www.rislab.org/). 
 I obtained my Bachelor of Technology (B.Tech) from the [Indian Institute of Technology, Guwahati](http://www.iitg.ac.in/) in 2016 with a major in Mechanical Engineering.
 
-My primary research interest is the deployment of Size, Weight and Power (SWaP) constrained robots, like drones for real-world applications such as search and rescue, unkown environment exploration and inspection. To that end, I am currently focused on developing real-time solutions for Simultaneous Localization and Mapping (SLAM) on embedded systems.
+My primary research interest is the deployment of Size, Weight and Power (SWaP) constrained robots, like drones for real-world applications such as search and rescue, unknown environment exploration and inspection. To that end, I am currently focused on developing real-time solutions for Simultaneous Localization and Mapping (SLAM) on embedded systems.
 
 Email: <adityadhawale6@gmail.com> 
 
