@@ -10,7 +10,7 @@ I am a Master of Science student at [The Robotics Institute](https://www.ri.cmu.
 I work with professor [Nathan Michael](https://nmichael.me/) at the [Resilient Intelligent Systems Lab (RISLab)](https://www.rislab.org/). 
 I obtained my Bachelor of Technology (B.Tech) from the [Indian Institute of Technology, Guwahati](http://www.iitg.ac.in/) in 2016 with a major in Mechanical Engineering.
 
-My primary research interest is high fidelity 3D perception, mapping and localization on autonomous systems. To this end, my current work in RISLab focuses on developing real-time solutions for Simultaneous Localization and Mapping (SLAM) on embedded systems.
+My primary research interest is high fidelity 3D perception, mapping and localization on autonomous systems. To this end, my current work in RISLab focuses on developing real-time solutions for Simultaneous Localization and Mapping (SLAM) in large scale unknown environments on embedded systems.
 
 Email: <adityadhawale6@gmail.com> 
 
