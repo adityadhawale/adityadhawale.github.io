@@ -21,12 +21,13 @@ description: Robotics Research Master's Student at The Robotics Institute, Carne
 # List of links in the navigation bar
 navbar-links:
   Resume: "/resume.pdf"
-  # Projects:
-  #   - GMM-Fusion: "http://adityadhawale.com/gmm_fusion/"
-  #   - Collision Avoidance: "http://adityadhawale.com/collision_avoidance/"
-  #   - GEAR:  "http://adityadhawale.com/gear/"
+  Projects:
+     - GFusion: "http://adityadhawale.com/gfusion/"
+     - Collision Avoidance: "http://adityadhawale.com/collision_avoidance/"
+     - GEAR:  "http://adityadhawale.com/gear/"
   # Blog: "Blog"
   Publications: "Publications"
+  Research: "Research"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
