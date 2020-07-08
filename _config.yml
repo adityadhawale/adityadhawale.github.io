@@ -22,7 +22,7 @@ description: Robotics Research Master's Student at The Robotics Institute, Carne
 navbar-links:
   Resume: "/resume.pdf"
   Projects:
-     - GFusion: "http://adityadhawale.github.io/research/GFusion"
+     - GFusion: "http://adityadhawale.github.io/research/gfusion"
      - Collision Avoidance: "http://adityadhawale.com/collision_avoidance/"
      - GEAR:  "http://adityadhawale.com/gear/"
   # Blog: "Blog"
