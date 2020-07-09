@@ -1,3 +1,7 @@
+---
 layout: page
 title: "GFusion"
 permalink: adityadhawale.github.io/reseach/gfusion
+---
+
+##GFusion

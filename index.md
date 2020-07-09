@@ -16,7 +16,7 @@ Email: <adityadhawale6@gmail.com>
 
 ## Research
 
-  **GMM-Fusion: Multi-Fidelity Dense SLAM with Gaussian Distributions**<br>
+  **GFusion: Multi-Fidelity Dense SLAM with Gaussian Distributions**<br>
   **A. Dhawale**, K. Shaurya Shankar, N. Michael<br>
   <img style="float: left; padding:5px" src="/img/icd_1-min.gif" height="212" width="370">
   <img style="float: center; padding:5px" src="/img/icd_2-min.gif" height="212" width="370">
